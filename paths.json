@@ -1,8 +1,0 @@
-{
-  "mappings": [
-    "/content/subway-nonordering/:/"
-  ],
-  "includes": [
-    "/content/subway-nonordering/"
-  ]
-}
